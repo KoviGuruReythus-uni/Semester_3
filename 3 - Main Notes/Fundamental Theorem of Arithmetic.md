@@ -9,7 +9,7 @@ Every int other than 0 and $\pm 1$ can be represented as a product of primes.
 This representation is unique _up to_ the order and sign of the factors
 	_this simply means that the order and sign are NOT unique_
 ___
-## Proof
+## Proof of Existence of Factorisation
 ### Initial State
 $n \in \mathbb{Z}$ 
 $|n| > 1$

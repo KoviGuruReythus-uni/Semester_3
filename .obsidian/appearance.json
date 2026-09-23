@@ -5,5 +5,5 @@
   "textFontFamily": "",
   "monospaceFontFamily": "JetBrains Mono",
   "translucency": true,
-  "showRibbon": true
+  "showRibbon": false
 }
