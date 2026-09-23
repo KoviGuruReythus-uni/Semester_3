@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "f798d7ee71f20870",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4708561ad9d6fe",
+        "type": "tabs",
+        "dimension": 47.03389830508475,
+        "children": [
+          {
+            "id": "94c46ed65345c8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "ea4db806f6c11e9b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6e6e3e0ce00cf9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Tags/NumberTheory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NumberTheory"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1c7723eeb75ebd15",
+        "type": "tabs",
+        "dimension": 52.96610169491526,
+        "children": [
+          {
+            "id": "1d48311fa473c429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Probability Space.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Probability Space"
+            }
+          },
+          {
+            "id": "5fd652b21a8ec0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Fundamental Theorem of Arithmetic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fundamental Theorem of Arithmetic"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7954e310f62b54d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8e899000cd653b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58cbdc52ab098211",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bcd1c85c828e9eb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c020dc710e43451",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f304cf6b2b3a219d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7452d79922011fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0946faa6857feb5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "copilot/skills/copilot-read-pdf/SKILL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fa38b58e826da480",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "copilot/skills/copilot-read-pdf/SKILL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5270f467d110eb79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54e044887fa56652",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1  - Rough Notes/Sep 8 BOP3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5fd652b21a8ec0a1",
+  "lastOpenFiles": [
+    "4 - Tags/NumberTheory.md",
+    "4 - Tags/ITC1.md",
+    "3 - Main Notes/Probability Space.md",
+    "3 - Main Notes/Untitled.md",
+    "3 - Main Notes/Event Algebra.md",
+    "4 - Tags/Probability&Statistics.md",
+    "4 - Tags/Probability.md",
+    "3 - Main Notes/Sample Space.md",
+    "3 - Main Notes/Probability Measure.md",
+    "Untitled",
+    "7 - Summaries/Probability And Statistics.md",
+    "3 - Main Notes/Fundamental Theorem of Arithmetic.md",
+    "3 - Main Notes/Basics Notions (ITC1).md",
+    "1  - Rough Notes/Introduction to Software Engineering.md",
+    "7 - Summaries",
+    "3 - Main Notes/Untitled 1.md",
+    "1  - Rough Notes/Sep 8 BOP3.md",
+    "1  - Rough Notes/l1.md",
+    "4 - Tags/BOP3.md",
+    "4 - Tags/Lec2.md",
+    "4 - Tags/SelfLearning.md",
+    "4 - Tags/SoftwareEngineering.md",
+    "4 - Tags/Semester3.md",
+    "4 - Tags/Podcasts.md",
+    "5 - Templates/Note Template.md",
+    "0 - To Do.md",
+    "2 - Source/ADHD & How anyone can improve their focus - Andrew Huberman.md",
+    "4 - Tags/Untitled.base",
+    "4 - Tags/BME.md",
+    "6 - Attachements",
+    "5 - Templates",
+    "4 - Tags",
+    "3 - Main Notes",
+    "2 - Source",
+    "1  - Rough Notes",
+    "copilot/skills/obsidian-cli/LICENSE"
+  ]
+}

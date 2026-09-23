@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "openBehavior": "",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "4 - Tags",
+  "attachmentFolderPath": "6 - Attachements",
+  "useMarkdownLinks": true,
+  "trashOption": "local",
+  "deleteUnlinkedAttachments": "always",
+  "settingsPopoutWindow": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "useTab": true,
+  "showIndentGuide": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

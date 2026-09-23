@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:KoviGuruReythus-uni/Semester_3.git",
+  "gitLocation": "",
+  "syncinterval": 5,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
