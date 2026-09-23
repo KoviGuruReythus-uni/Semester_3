@@ -50,3 +50,15 @@ $$
 
 This proves that there is a finite upper limit $log_2(|n|)$ for $k$ and that it cannot go on till infinity.
 ___
+## Proposition
+Let's assume $p_1,...,p_k$ are pairwise different positive primes
+	$n = p_1^{\alpha_1}...p_k^{\alpha_k}$ 
+		where, $\alpha^1,...,\alpha^k$  are non-negative integers
+
+Then, some positive integer $m$ divides $n$ iff 
+	$m=p_1^{\beta_1}...p_2^{\beta_k}$ 
+		where, $0 \leq \beta_1 \leq \alpha_1,..., 0 \leq \beta_k \leq \alpha_k$ 
+			_also $\beta_i$ are all ints_ 
+
+### Plain English
+For an int m to be able to divide some other int n, 
