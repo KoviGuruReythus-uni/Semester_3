@@ -53,7 +53,7 @@ ___
 ## Proposition
 Let's assume $p_1,...,p_k$ are pairwise different positive primes
 	$n = p_1^{\alpha_1}...p_k^{\alpha_k}$ 
-		where, $\alpha^1,...,\alpha^k$  are non-negative integers
+		where, $\alpha_1,...,\alpha_k$  are non-negative integers
 
 Then, some positive integer $m$ divides $n$ iff 
 	$m=p_1^{\beta_1}...p_2^{\beta_k}$ 
