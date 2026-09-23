@@ -61,4 +61,6 @@ Then, some positive integer $m$ divides $n$ iff
 			_also $\beta_i$ are all ints_ 
 
 ### Plain English
-For an int m to be able to divide some other int n, 
+For an int m to be able to divide some other int n, all the powers of the prime factors of m must be less than or equal to those of n. 
+
+Eg: $4|204 \implies 2^2|(2^2 . 3^1 . 17^1)$ 
