@@ -47,30 +47,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Tags/NumberTheory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NumberTheory"
-            }
-          },
-          {
-            "id": "f01921492058ee82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "3 - Main Notes/Fundamental Theorem of Arithmetic.md",
                 "mode": "source",
                 "source": false,
@@ -88,9 +64,33 @@
               "icon": "lucide-file",
               "title": "Fundamental Theorem of Arithmetic"
             }
+          },
+          {
+            "id": "f01921492058ee82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Probability Measure.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Probability Measure"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "f01921492058ee82",
+  "active": "6e6e3e0ce00cf9c5",
   "lastOpenFiles": [
     "4 - Tags/NumberTheory.md",
+    "3 - Main Notes/Probability Measure.md",
     "3 - Main Notes/Fundamental Theorem of Arithmetic.md",
+    "3 - Main Notes/Basics Notions (ITC1).md",
     "README.md",
     "4 - Tags/ITC1.md",
     "3 - Main Notes/Probability Space.md",
@@ -255,10 +257,8 @@
     "4 - Tags/Probability&Statistics.md",
     "4 - Tags/Probability.md",
     "3 - Main Notes/Sample Space.md",
-    "3 - Main Notes/Probability Measure.md",
     "Untitled",
     "7 - Summaries/Probability And Statistics.md",
-    "3 - Main Notes/Basics Notions (ITC1).md",
     "1  - Rough Notes/Introduction to Software Engineering.md",
     "7 - Summaries",
     "3 - Main Notes/Untitled 1.md",
