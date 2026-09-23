@@ -49,4 +49,4 @@ And\ the\ smallest\ &absolute\ value\ of\ the\ factors\ is\ 2, \\
 $$
 
 This proves that there is a finite upper limit $log_2(|n|)$ for $k$ and that it cannot go on till infinity.
-
+___

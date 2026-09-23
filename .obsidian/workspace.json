@@ -6,7 +6,6 @@
       {
         "id": "df4708561ad9d6fe",
         "type": "tabs",
-        "dimension": 47.03389830508475,
         "children": [
           {
             "id": "94c46ed65345c8c0",
@@ -65,41 +64,9 @@
               "icon": "lucide-file",
               "title": "NumberTheory"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1c7723eeb75ebd15",
-        "type": "tabs",
-        "dimension": 52.96610169491526,
-        "children": [
-          {
-            "id": "1d48311fa473c429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/Probability Space.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Probability Space"
-            }
           },
           {
-            "id": "5fd652b21a8ec0a1",
+            "id": "f01921492058ee82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -123,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1  - Rough Notes/Sep 8 BOP3.md",
+                "file": "3 - Main Notes/Fundamental Theorem of Arithmetic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,10 +243,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5fd652b21a8ec0a1",
+  "active": "f01921492058ee82",
   "lastOpenFiles": [
-    "README.md",
     "4 - Tags/NumberTheory.md",
+    "3 - Main Notes/Fundamental Theorem of Arithmetic.md",
+    "README.md",
     "4 - Tags/ITC1.md",
     "3 - Main Notes/Probability Space.md",
     "3 - Main Notes/Untitled.md",
@@ -291,7 +258,6 @@
     "3 - Main Notes/Probability Measure.md",
     "Untitled",
     "7 - Summaries/Probability And Statistics.md",
-    "3 - Main Notes/Fundamental Theorem of Arithmetic.md",
     "3 - Main Notes/Basics Notions (ITC1).md",
     "1  - Rough Notes/Introduction to Software Engineering.md",
     "7 - Summaries",
